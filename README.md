@@ -1,2 +1,2 @@
-# Boz-Lila-Modules
- Modules for the Lila Framework
+# Boz-Lilia-Modules
+ Modules for the Lilia Framework
